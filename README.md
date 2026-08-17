@@ -6,7 +6,7 @@ análise de dados e inteligência financeira.
 ## Projetos em destaque
 
 - AR & Aging Dashboard — Power BI, SQL, DAX e Power Query
-- DRE Gerencial — Power BI, modelagem e finanças
+- Sales Analytics Dashboard — Power BI, DAX e análise comercial
 - AR Intelligence — Python, Pandas, ETL e Streamlit
 
 ## Publicação
