@@ -1,7 +1,7 @@
 # Gabriel Ramos — Data & BI Portfolio
 
-Portfólio profissional de Gabriel Ramos, com projetos de Business Intelligence,
-análise de dados e inteligência financeira.
+Portfólio profissional, com projetos de Business Intelligence,
+análise de dados e IA e inteligência financeira.
 
 ## Projetos em destaque
 
